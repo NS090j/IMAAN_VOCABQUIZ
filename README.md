@@ -1,2 +1,2 @@
-# IMAAN_VOCABQUIZns
+# IMAAN_VOCABQUIZ
 Play vocab games
